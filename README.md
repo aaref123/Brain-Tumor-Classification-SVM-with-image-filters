@@ -1,0 +1,1 @@
+This python notebook was created as part of my CSAI bachelor thesis with the title "Exploring SVMs for State-of-the-Art MRI Brain Tumor Classification: Image Enhancement and Transformation Approaches"
